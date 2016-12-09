@@ -1,0 +1,5 @@
+data/
+3rdparty/
+.config.py
+.idea/
+__pycache__/
